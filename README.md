@@ -1,6 +1,8 @@
 # Neural-Networks-in-Computer-Vision
 
+
 🤖Implementation Description
+
 The project was developed in Python. It is designed to run in Google Colab and is divided into two distinct queries (notebooks):
 
 1. Comparing Basic Architectures (ComparingBasicNNArchitectures)
@@ -30,6 +32,7 @@ The project was developed in Python. It is designed to run in Google Colab and i
       Fine-Tuning: Unfreezing the layers and training the entire architecture end-to-end for 20 epochs.
 
    Evaluation & Export: The process takes place within a K-Fold loop (where models are initialized/loaded within the fold loop). Results (Accuracy, Precision, Recall, F1 score) are exported to the erotima2.csv file, resulting in a dataframe with 48 rows plus 1 for the headers.
+
 
 🛠️Requirements and Installation
 
