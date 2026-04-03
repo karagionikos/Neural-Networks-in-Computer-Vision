@@ -32,6 +32,7 @@ The project was developed in Python. It is designed to run in Google Colab and i
    Evaluation & Export: The process takes place within a K-Fold loop (where models are initialized/loaded within the fold loop). Results (Accuracy, Precision, Recall, F1 score) are exported to the erotima2.csv file, resulting in a dataframe with 48 rows plus 1 for the headers.
 
 🛠️Requirements and Installation
+
 All required libraries can be installed via pip. To run the code, follow these steps:
 
 Open the .ipynb files in Google Colab.
