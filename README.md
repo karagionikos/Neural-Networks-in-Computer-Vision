@@ -48,7 +48,7 @@ Execute the cells sequentially. The exported .csv files will be generated automa
 
 
 
-📌This project is the implementation of the 1st laboratory assignment for the Neural Networks course, Department of Applied Informatics, University of Macedonia (8th semester, Academic Year 2024-2025). 
+📌This project is the implementation of the 1st laboratory assignment for the Neural Networks course, Department of Applied Informatics, University of Macedonia (8th semester, Academic Year 2025-2026). 
 The assignment focuses on using Deep Learning models for image classification and utilizing Transfer Learning to apply existing models to a new dataset.
 
 
